@@ -1,0 +1,50 @@
+body{
+    background: lightgreen;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    padding-left: 70px;
+}
+table{
+    background: linear-gradient(#b6b6c5, #09bff6);
+    table-layout: auto;
+}
+td{
+    border: solid 2px black;
+}
+th{
+    background-color: blue;
+}
+.place{
+    align-content: center;
+}
+summary{
+    background: linear-gradient(to right,bisque,bisque);
+    margin-bottom: 2px;
+    padding: 5px;
+    cursor: pointer;
+    outline: none;
+    font-weight: bold;
+    border-bottom-right-radius: 15px;
+    margin-left: 5px;
+    width: 80%;
+}
+.agenda{
+    background: lightblue;
+}
+footer{
+    background: blue;
+    display:flex;
+}
+.logo{
+    margin-top: 80px;
+}
+.tab{
+    width: 100%;
+}
+.gg{
+    width: 100%;
+}
